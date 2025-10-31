@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataSyncronization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de07d6648adab231f5d626595156621c31687de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataSyncronization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataSyncronization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
